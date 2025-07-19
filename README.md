@@ -48,4 +48,4 @@ The dashboard simplifies complex data and helps marketers and content strategist
 - **Python**
 - **Pandas** – Data wrangling
 - **Matplotlib / Seaborn / Plotly** – Visualizations
-- **Colab** – Analysis environment
+- **Jupyter Notebook** – Analysis environment
